@@ -1,4 +1,4 @@
-# cerebrolens1
+
 # 🧠 CerebroLens - Brain Tumor Detection & Classification System
 
 CerebroLens is a full-stack AI-powered application that performs **brain tumor segmentation and classification** using deep learning. The system integrates **U-Net** for precise tumor region detection and **EfficientNet** for accurate classification into **glioma**, **meningioma**, **pituitary**, or **no tumor**. A standout feature of the app is the **preliminary biopsy suggestion module**, designed to assist healthcare professionals with timely decision-making.
